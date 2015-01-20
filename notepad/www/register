@@ -1,0 +1,19 @@
+
+<div class="section no-pad-bot" id="registerOlog">
+	<div class="container">
+		<br><br>
+		<h2 class="header center grey-text">Registra tu usuario para comenzar</h1>
+		<div class="row center">
+			<button type="button" id="reg_me" class="waves-effect waves-light red" >Registrar</button>
+		</div>
+		<br><br>
+	</div>
+	<div class="container">
+		<br><br>
+		<h2 class="header center grey-text">Loguéate si ya has creado un usuario anteriormente</h1>
+		<div class="row center">
+			<button type="button" id="reg_me" class="waves-effect waves-light blue" >Login</button>
+		</div>
+		<br><br>
+	</div>
+</div>

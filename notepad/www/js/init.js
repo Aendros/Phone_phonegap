@@ -4,6 +4,7 @@
     $('.button-collapse').sideNav();
     $('.button-begin').click(function(){
     	$(".hello-app").remove();
+    	$("main").load("register.html");
     }
     	);
 
